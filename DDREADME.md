@@ -16,7 +16,7 @@
 - [Contributions](#contributions)
 - [Credits](#credits)
 ## What is This?
-This project is a UWP-based utility for Dungeons & Dragons to help players manage their character(s), have easy access to handbook content, and give Dungeon Masters a utility through which they can manage their campaigns
+This project is a UWP-based utility for Dungeons & Dragons to help players manage their character(s), have easy access to handbook content, and give Dungeon Masters a utility through which they can manage their campaigns.
 ### Why Create It?
 While being a novice D&D player and playing the game with my group, we came to the realization that having to manage characters using either pen/pencil and paper or editable PDF's, while simple initially, can become rather tedious. Hence my resolve to make the free utility for players both new and experienced that is easily accessible.
 ## What Can It Do?
@@ -58,4 +58,4 @@ To install, you can...
 ## Contributions
 More content is always being added to and updated within the app, so If you'd like to see something game-related or feature-related to be integrated into future releases of the app, simply submit an issue ticket with the proper documentation with your request for approval!
 ## Credits
-As always, credit goes to Wizards of the Coast for all D&D content
+As always, credit goes to Wizards of the Coast for all D&D content.
