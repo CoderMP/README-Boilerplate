@@ -29,7 +29,7 @@ The app itself is broken down into 3 primary sections: **Character Management**,
   + Background
   + etc
   
-  ![dashboard](https://imgur.com/a/U5obiSo)
+  ![dashboard](img/dashboard.JPG)
   
 - Character Biography:
   + Flaws
