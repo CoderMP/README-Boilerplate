@@ -28,6 +28,9 @@ The app itself is broken down into 3 primary sections: **Character Management**,
   + Class
   + Background
   + etc
+  
+  ![dashboard](https://imgur.com/a/U5obiSo)
+  
 - Character Biography:
   + Flaws
   + Motivations
@@ -35,6 +38,8 @@ The app itself is broken down into 3 primary sections: **Character Management**,
 - Skill Levels & Specializations
 - Spell Management
 - Inventory & Item Management
+
+
 ### Player Codex:
 - Different Races within D&D:
   + Player Races
