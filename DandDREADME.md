@@ -23,11 +23,11 @@ While being a novice D&D player and playing the game with my group, we came to t
 The app itself is broken down into 3 primary sections: **Character Management**, a **Player Codex** for key aspects of D&D, and a **DM Console**.
 ### Character Management:
 - General Character Properties:
-  + Health
-  + Race
-  + Class
-  + Background
-  + etc
+  + View Health, Race, Class, Background, etc
+  + Manage player notes
+  + Keep track of death save successes and failures
+  + Dice rolling module (optional to real dice of course)
+  + General information module to summarize the overall significance of all stats and what they mean for your character
   
   ![dashboard](img/dashboard.JPG)
   
@@ -35,9 +35,27 @@ The app itself is broken down into 3 primary sections: **Character Management**,
   + Flaws
   + Motivations
   + etc
-- Skill Levels & Specializations
-- Spell Management
-- Inventory & Item Management
+  
+  ![biography](img/biography.JPG)
+  
+- Skill Levels & Specializations:
+  + Keep track of which stat-specific perks your character has
+  + Indicates respective skill modifier based on base skill level
+
+![stats](img/stats.JPG)
+
+- Spell Management:
+  + See and manage available spells slots at each level
+  + Manage cantrips
+
+![spells](img/spells.JPG)
+
+- Inventory & Item Management:
+  + Manage different currency amounts (CP, SP, GP, PP, etc)
+  + Consumables (e.g. # of torches, health potions)
+  + Resources (e.g. food rations)
+ 
+![inventory](img/inventory.JPG)
 
 
 ### Player Codex:
