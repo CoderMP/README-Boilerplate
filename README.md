@@ -2,7 +2,7 @@
 
 **Any Important Notices Here**
 
-## [Changelog](./CHANGELOG.md)
+## [Changelog](./CHANGELOG.md) (if you have a changelog file)
 
 ![build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![repo/build version](https://img.shields.io/badge/repo%20build%20version-v1.0-blue.svg)
